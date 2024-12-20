@@ -1,0 +1,4 @@
+streamlit
+matplotlib
+pandas  # Add other required libraries here
+numpy
